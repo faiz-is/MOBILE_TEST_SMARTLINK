@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "251001344874",
+    "project_id": "laundry-d981f",
+    "storage_bucket": "laundry-d981f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:251001344874:android:ba975207676dce153d0b13",
+        "android_client_info": {
+          "package_name": "com.faiz.sample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "251001344874-0it66tt9dufmbc2gfm9m4jkpr6ft63qv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjCAl_sSlelYggiXE0FKr-pp7s7Ikyt4M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "251001344874-0it66tt9dufmbc2gfm9m4jkpr6ft63qv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
